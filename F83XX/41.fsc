@@ -61,6 +61,12 @@ openTA:2
 writeTA:2330
 closeTA
 openTA:2
+<<<<<<< HEAD
+=======
+writeTA:2473
+closeTA
+openTA:2
+>>>>>>> branch 'master' of https://github.com/Androxyde/devices
 writeTA:2550
 closeTA
 openTA:2
